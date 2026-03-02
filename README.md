@@ -1,16 +1,14 @@
-## Hi there 👋
+# Herson Hernandez
 
-<!--
-**TheHerse/TheHerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indie founder building Hersemita—OCR-powered athlete management for cross-country coaches.
 
-Here are some ideas to get you started:
+**Currently:** Piloting MVP with two Coach of the Year award winners (state champion & regional coaches)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** TypeScript, Next.js, Supabase, Twilio, Tesseract OCR
+
+**Background:** 
+- CS/Math double major
+- 2 years high school math teacher (180+ students)
+- 3 years RA (managed 40 students, "RA of the Year 2022")
+
+Open to founding engineer roles at early-stage startups
