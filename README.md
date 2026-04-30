@@ -1,6 +1,6 @@
 ## Herson Hernandez
 
-**[Portfolio](https://hersonhernandez.com)** · **[LinkedIn](YOUR-LINKEDIN-URL)** · **[Email](mailto:YOUR-EMAIL)**
+**[Portfolio](https://hersonhernandez.com)** · **[LinkedIn]([YOUR-LINKEDIN-URL](https://www.linkedin.com/in/hersonhernandez2701/))** · **[Email](mailto:Hersonhdez@gmail.com)**
 
 Indie founder building **Hersemita** — OCR-powered athlete management for cross-country coaches.
 
